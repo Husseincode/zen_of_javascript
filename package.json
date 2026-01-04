@@ -1,6 +1,6 @@
 {
 	"name": "zen_of_javascript",
-	"version": "2.0.1",
+	"version": "2.0.2",
 	"description": "The Zen of JavaScript – shareable JS wisdom like Python's `import this`",
 	"main": "index.js",
 	"keywords": ["zen", "javascript", "import-this", "fun"],
