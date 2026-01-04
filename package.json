@@ -1,13 +1,9 @@
 {
-  "name": "zen_of_javascript",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "type": "commonjs"
+	"name": "zen_of_javascript",
+	"version": "1.0.1",
+	"description": "The Zen of JavaScript – shareable JS wisdom like Python's `import this`",
+	"main": "index.js",
+	"keywords": ["zen", "javascript", "import-this", "fun"],
+	"author": "Husseincode",
+	"license": "MIT"
 }
